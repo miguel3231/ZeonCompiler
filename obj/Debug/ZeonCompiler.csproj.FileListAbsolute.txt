@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\bin\Debug\ZeonCompiler.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\bin\Debug\ZeonCompiler.exe
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\bin\Debug\ZeonCompiler.pdb
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.Form1.resources
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.exe
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.pdb
+c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.csprojResolveAssemblyReference.cache
