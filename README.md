@@ -2,4 +2,4 @@
 Compiler for a class. Now with UI
 
 Download link:
-http://www.mediafire.com/file/i6gfsuu3l55o5p3/ZeonCompiler.rar
+https://github.com/miguel3231/ZeonCompiler/blob/master/bin/Debug/ZeonCompiler.exe?raw=true
