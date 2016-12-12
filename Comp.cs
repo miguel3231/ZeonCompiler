@@ -38,9 +38,17 @@ namespace Compile
             //string line = "{int a \n for(a=4 ; a<6 ; a=a+1){print(a)}  printl int b for(b=1; b<a;b=b+1){print(b)}}";
             Console.WriteLine("Evaluate: " + codigo);
             evaluate(codigo);
-            Programa();
-            CreateFile();
-            RunVM();
+            if (finalcount > 0)
+            {
+                Programa();
+                CreateFile();
+                RunVM();
+            }
+            else
+            {
+                Console.WriteLine(eLog+="Error. Please write some code.");
+                eLog += "\r\n";
+            }
             Console.ReadLine();
         }
         public  byte[] ConvertDoubleToByteArray(double d)
@@ -644,8 +652,8 @@ namespace Compile
                             Console.WriteLine(eLog+="Error. Variable expected.");
                             eLog += "\r\n";
                         }
-                        Console.Write(rice += "DEFAS " + Token.valor + ", " + number + ", " );
-                        rice += "\r\n";
+                        string nombre = Token.valor;
+                        //Console.Write(rice += "DEFAS " + Token.valor + ", " + number + ", " );
                         varTable[varCount].name = Token.valor;
                         varTable[varCount].type = "stringArray";
                         varTable[varCount].isArray = true;
@@ -662,7 +670,8 @@ namespace Compile
                             Console.WriteLine(eLog+="Error. Numero esperado.");
                             eLog += "\r\n";
                         }
-                        Console.WriteLine(Token.valor);
+                        Console.WriteLine(rice += "DEFAS " + nombre+ ", " + Token.valor + ", "  + number);
+                        rice += "\r\n";
                         varCount++;
                     }
                     break;

@@ -7,3 +7,12 @@ c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\ob
 c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.exe
 c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.pdb
 c:\users\mike\documents\visual studio 2015\Projects\ZeonCompiler\ZeonCompiler\obj\Debug\ZeonCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\bin\Debug\ZeonCompiler.exe.config
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\obj\Debug\ZeonCompiler.exe
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\obj\Debug\ZeonCompiler.pdb
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\bin\Debug\ZeonCompiler.exe
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\bin\Debug\ZeonCompiler.pdb
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\obj\Debug\ZeonCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\obj\Debug\ZeonCompiler.Form1.resources
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\obj\Debug\ZeonCompiler.Properties.Resources.resources
+C:\Users\Miguel\Documents\GitHub\ZeonCompiler\obj\Debug\ZeonCompiler.csproj.GenerateResource.Cache
